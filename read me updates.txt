@@ -1,0 +1,11 @@
+﻿Aug 21, 
+
+This is the final draft I wont be editing it I don’t think. If you select the correct numbers for a choice it should flow fine, numbers out of index can cause crashes. I’ve added more attacks, items and magic. Plus visual hp/mp bars.
+If you load the main py file and the files in classes it will run.
+
+
+
+
+July 4th-
+the magic portion of the game is broken :(
+due to my trying to install new types “black and white and make magic a classes. Now my spells are not scriptable and I cant figure it out.
